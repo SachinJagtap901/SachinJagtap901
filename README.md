@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sachin Jagtap
-- 👀 I’m interested in Data Analytics and Data Science
-- 🌱 I’m currently learning R, Pandas, Bumpy, sympy
+- 👀 I’m working in Data Analytics and Data Science
+- 🌱 I’m currently Azure Databricks and cloud
 - 💞️ I’m looking to collaborate on Data Science
 - 📫 How to reach me ping me 
  sachinjagtap901@gmail.com
