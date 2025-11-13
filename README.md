@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Sachin Jagtap
-- 👀 I’m working in Data Analytics and Data Science
-- 🌱 I’m currently Azure Databricks and cloud
-- 💞️ I’m looking to collaborate on Data Science
+- 👋 Hi, I’m Sachin Jagtap, Micorsoft Certified Azure cloud Engineer
+- 👀 I worked alsmost 5 years in Data Analytics and Data Science
+- 🌱 I’m currently works in cloud
+- 💞️ I’m looking to collaborate on Devops
 - 📫 How to reach me ping me 
  sachinjagtap901@gmail.com
 
